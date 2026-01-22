@@ -23,5 +23,5 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
-# Allow train.csv to be tracked
-!train.csv
+# main huge dataset
+train.csv
