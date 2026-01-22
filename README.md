@@ -69,6 +69,8 @@ The project uses `train.csv` which contains sensor data collected from smartphon
 - 3-axial angular velocity (gyroscope)
 - Various derived features like jerk, magnitude, and frequency domain signals
 
+**Dataset Source**: [Human Activity Recognition Using Smartphones](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones) on Kaggle
+
 ## Project Structure
 
 ```
